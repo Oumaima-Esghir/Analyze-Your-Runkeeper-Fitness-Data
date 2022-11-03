@@ -27,21 +27,18 @@ Dans ce projet, nous allons créer, importer, nettoyer et analyser les données 
 ######  runkeeper_file = 'datasets/cardioActivities.csv'
 
 ![img](./pictures/tab.png)
-
-
-
-####📈 visualisation des données de course:
+#### 📈 visualisation des données de course:
 
 ![img](./pictures/4.png)
 
 ![img](./pictures/4.2.png)
 
-####📈 visualisation de la distance de course annuelle (km) de 2013 à 2018:
+#### 📈 visualisation de la distance de course annuelle (km) de 2013 à 2018:
 Pour se motiver à courir régulièrement,cet utilisateur s'est fixé comme objectif de courir 1000 km par an:
 
 ![img](./pictures/7.png)
 
-####📊 Intensité d'entraînement
+#### 📊 Intensité d'entraînement
 création d'un diagramme de distribution des données de fréquence cardiaque par intensité d'entraînement.
 Il s'agit d'une présentation visuelle du nombre d'activités à partir de zones d'entraînement prédéfinies.
 
