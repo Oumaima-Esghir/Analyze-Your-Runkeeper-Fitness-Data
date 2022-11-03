@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Oumaima-Esghir/Analyze-Your-Runkeeper-Fitness-Data/main?labpath=notebook.ipynb)
 # Analyze-Your-Runkeeper-Fitness-Data🏃‍♀️
 ![img](./pictures/runkeeper.png)
 ##	📃 Introduction :
