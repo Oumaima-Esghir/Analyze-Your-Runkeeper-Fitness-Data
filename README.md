@@ -53,3 +53,10 @@ création d'un diagramme de distribution des données de fréquence cardiaque pa
 Il s'agit d'une présentation visuelle du nombre d'activités à partir de zones d'entraînement prédéfinies.
 
 ![img](./pictures/9.png)
+
+#### Rapport de synthèse détaillé
+Pour ce faire, nous allons créer deux tables. Le premier tableau sera un résumé des variables de distance (km) et de dénivelé (m) pour chaque activité d'entraînement. Le deuxième tableau répertorie les statistiques récapitulatives pour les variables de vitesse moyenne (km/h), de montée (m) et de distance (km) pour chaque activité d'entraînement
+![img](./pictures/10.1.png)
+🚴![img](./pictures/10.2.png)
+🏃![img](./pictures/10.3.png)
+🚶![img](./pictures/10.4.png)
