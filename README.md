@@ -34,10 +34,19 @@ Dans ce projet, nous allons créer, importer, nettoyer et analyser les données 
 
 ![img](./pictures/4.2.png)
 
+#### 📊 Visualisation avec moyennes :
+Traçons les moyennes à long terme de la distance parcourue et de la fréquence cardiaque avec leurs données brutes pour comparer visuellement les moyennes de chaque séance d'entraînement en utilison les données de 2015 à 2018.
+
+![img](./pictures/6.png)
+
 #### 📈 visualisation de la distance de course annuelle (km) de 2013 à 2018:
 Pour se motiver à courir régulièrement,cet utilisateur s'est fixé comme objectif de courir 1000 km par an:
 
 ![img](./pictures/7.png)
+
+####  Est-ce que il progresse ? :
+Pour répondre à cette question, nous allons décomposer la course de distance hebdomadaire et la comparer visuellement aux données brutes. Une ligne de tendance rouge représentera la distance hebdomadaire parcourue
+![img](./pictures/8.png)
 
 #### 📊 Intensité d'entraînement
 création d'un diagramme de distribution des données de fréquence cardiaque par intensité d'entraînement.
